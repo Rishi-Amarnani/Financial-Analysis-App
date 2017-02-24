@@ -1,0 +1,61 @@
+//----------taking input and storing it---------------//
+//allow user to enter purchases
+//store purchases in array then feed into text file or excel doc
+
+//allow user to enter current jobs and salaries
+//store in array then into text file/excel doc
+
+//keep track of total spending
+//keep track of date which spending was added
+
+//-----------average spending over pd of time-----------//
+//find the difference between when a purchase was made
+//and today to compute how many days it has been
+//use the total spending and this number of days
+//to figure out the average spending per days, per week, per month
+
+//-----------average spending split into two categories----//
+//Generally there will be two categories
+//1. days where you spend a small amount (average day)
+//2. days where you spend alot (party days, holidays, weekends, etc)
+
+//split the average spending into these two categories
+//and for each unit of time give two statistics:
+//for example: 1. What is the average spending on a normal day over a month
+//			   2. What is the avg spending on a special day over a month
+//
+
+
+//----------Line graph------------//
+//Plot this average spending per day/month/year onto a line graph
+
+
+//---------Pie chart--------------//
+//For both special days and average days,
+//figure out what is the distribution of spending
+//ex: special day: 40% food 30% alcohol 30% movie
+//	  normal day: 60% food 40% coffee
+//and display this data in a pie chart
+
+//Can be calculated for a day over a month, week or year
+//--> TO SEE what the average day looks like over that time span
+
+//can be done for a week over a month or year
+//where we show the pie chart for monday through sunday
+//and each monday is an average of all mondays over that month
+//or year or greater
+
+
+//maybe ever add comparisons
+//like what was the average day or week like in 2014 vs 2015
+
+
+//-----------Savings------------//
+//can compute savings for every week or month -- and display in line chart
+//or compute average savings a week or month over a year 
+
+//---------Voice recognition----------//
+//after you figure out all the calculations
+//and figure out the graphing
+//check out voice recognition libraries and APIs.
+
